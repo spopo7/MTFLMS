@@ -14,5 +14,10 @@
 		<members>*</members>
 		<name>ApexTrigger</name>
 	</types>
+	<types>
+		<members>Loan_Charge__c</members>
+		<members>Loan__c</members>
+		<name>CustomObject</name>
+	</types>
 	<version>64.0</version>
 </Package>
