@@ -19,5 +19,10 @@
 		<members>Loan__c</members>
 		<name>CustomObject</name>
 	</types>
+	<types>
+		<members>Loan_Charge__c-Loan Charge Layout</members>
+		<members>Loan__c-Loan Layout</members>
+		<name>Layout</name>
+	</types>
 	<version>64.0</version>
 </Package>
