@@ -24,5 +24,9 @@
 		<members>Loan__c-Loan Layout</members>
 		<name>Layout</name>
 	</types>
+	<types>
+		<members>CustomAddressField</members>
+		<name>Settings</name>
+	</types>
 	<version>64.0</version>
 </Package>
